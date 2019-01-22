@@ -34,7 +34,7 @@ java -jar udf-uploader-1.0.0.jar \
 
 ### Notes
 
-* For SaaS installations, hostname is `https://api.overops.com`. For on prem, use the hostname of your OverOps backend server.
+* For SaaS installations, hostname is `https://api.overops.com`. For on prem, use the hostname of your OverOps backend server, including protocol and port.
 * Your API Key can be found on the Account Settings screen in OverOps.
 * Service ID or Environment ID begins with "S" followed by numbers. Specify either the service ID `-s` flag, or `-g` flag to upload the UDF globally.
 
