@@ -22,3 +22,5 @@ my.*
 
 .idea
 *.iml
+
+.DS_Store
